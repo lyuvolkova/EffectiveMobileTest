@@ -4,7 +4,7 @@
 ## Запуск
 ```
 git clone https://github.com/lyuvolkova/EffectiveMobileTest.git
-cd effectiveMobileTest
+cd EffectiveMobileTest
 docker compose up -d
 ```
 
