@@ -1,6 +1,13 @@
 # Тестовое задание для Effective Mobile
 Сервис, который получает ФИО, дополняет наиболее вероятным возрастом, полом и национальностью из открытых API и сохраняет в БД postgres.
 
+## Запуск
+```
+git clone https://github.com/lyuvolkova/EffectiveMobileTest.git
+cd effectiveMobileTest
+docker compose up -d
+```
+
 ## Создание персоны
 
 ```
